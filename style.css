@@ -1,5 +1,19 @@
+/* Seletor de Elemento */
 body {
 
 width: 80vw; /80% da viewport (janela de visão) */
 margin: auto; /* define as margens automáticas (mesmi valor para ambos os lados) */    
+}
+
+/* selector id */
+#Artigos{ 
+    background-color: aqua;
+    display: flex; /*Exibição com caixa flexível */
+}
+#MeusHobbies{
+    background-color: blue;
+
+}
+#MinhaCarreira{
+    background-color: aquamarine;
 }
